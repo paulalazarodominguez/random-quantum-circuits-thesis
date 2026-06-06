@@ -1,9 +1,19 @@
-# random-quantum-circuits-thesis
-Numerical simulations for my thesis on scrambling in Clifford circuits
+# Random Quantum Circuits Thesis
 
-# Clifford Scrambling Simulations
-
+## Overview
 This repository contains the numerical code used in my master thesis on scrambling dynamics in random Clifford circuits.
+
+## Technologies
+- Python
+- NumPy
+- Matplotlib
+- Stim
+
+## Objectives
+Study information scrambling and entanglement dynamics in random quantum circuits.
+
+## Results
+Simulation and visualization of the evolution of quantum states under Clifford circuits.
 
 The notebook includes:
 - Bipartite entanglement entropy calculations
@@ -12,7 +22,4 @@ The notebook includes:
 - Fluctuation analysis
 - WrAA model simulations
 
-The simulations were implemented using:
-- stim
-- numpy
-- matplotlib
+
